@@ -1,6 +1,14 @@
 # CS220   CSE-BUBBLE
 Welcome to the readme file for the CSE Bubble Processor, an implementation based on the MIPS architecture. This document aims to provide a comprehensive overview of the design and implementation of the processor. The CSE Bubble Processor boasts a streamlined single-cycle approach, enabling efficient execution of instructions through the stages of fetching, decoding, and execution. By familiarizing yourself with this document, you will gain a deeper understanding of the inner workings and features of the CSE Bubble Processor. Let's delve into the details of this impressive processor design.
 
+# Contents
+This Repo contains
+1. Instruction_Defination - This file contains information about how instruction format are defined. 
+2. Bubble_Sort - This is an .asm file containing the MIPS32 Assembly code for the bubble sort algorithm. This file can be simulated on QTSPIM.
+3. Report - This contain the project report and information about implementation and design.
+4. Code - This contain the Verilog code of the processor.
+5. Test_bench - This contain the test_bench of the verilog code used while simulating the verilog code of processor.
+
 # Design and Implementation
 1. Single-cycle architecture: The processor follows a single-cycle approach, allowing for the fetch, decode, and execution of instructions to be completed within a single clock cycle.
 
